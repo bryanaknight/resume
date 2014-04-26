@@ -1,37 +1,36 @@
-Bryana Rivera Knight 
-brknig11@gmail.com ▪ @BryanaKnight ▪ BryanaKnight ▪ (202)277-7642 
+Bryana Rivera Knight
+ bryana.r.knight@gmail.com ▪ BryanaKnight ▪ @BryanaKnight ▪ (202)277-7642 
 
-PROJECTS
-Fourth Meal - Worked with a legacy codebase of a one-restaurant online ordering system to build a restaurant platform for thousands of restaurants. I focused on performance, including the background workers to handle mail,  generating store data, “Russian Doll” fragment caching and database indexing.
-▪ Github: http://bit.ly/1j6A15c  ▪Production: http://fourth-meal.herokuapp.com 
+Summary
+………………………………………………………………………………………………………………………………………………………
+My solution to a difficult problem is often not an obvious approach.  I am eager to work with a company that values disruptive business solutions and continued learning.  I strive to be a collaborative teammate and effective communicator as much as a strong developer.  
 
-rolling_paper gem - Created a gem to consume the Leafly API. The gem allows you to access all strains and find certain strains by name or category. Used in my team’s Mile High Project [https://github.com/fluxusfrequency/milehigh]. 
-▪ Github: http://bit.ly/1j6A15c  
+Projects
+……………………………………………………………………………………………………………………………………………………….
+rolling_paper gem ▪  Created a gem to consume the Leafly API. Allows you to access all strains and find certain strains by name or category. Used in my team’s Mile High app, a version of Yelp for Legal Marijuana stores in CO. We also created our own public API to expose review and store information. 
+gem: github.com/BryanaKnight/rolling_paper | rubygems.org/gems/rolling_paper
+project: github.com/BryanaKnight/milehigh | Production: milehighbuzz.co
 
-WORK EXPERIENCE
-Market Programmer at Living Social, Washington, DC                          September 2012-August 2013
+Fourth Meal ▪  Worked with a legacy codebase of an individual restaurant online ordering system to build a restaurant platform capable of hosting thousands of restaurants. I focused on performance, including the background workers to handle mail,  generating store data, “Russian Doll” fragment caching and database indexing.
+Github: github.com/BryanaKnight/fourthmeal | Production: fourth-meal.herokuapp.com 
+
+Walk It Off ▪  Fitness and Nutrition app built using SOA. Includes integration with the Fitbit and Fatsecret API’s. 
+Github: github.com/BryanaKnight/walk_if_off | Production: walkitoff.herokuapp.com
+
+Work Experience
+…………………………………………………………………………………………………………………………………………………………
+Market Programmer at LivingSocial, Washington, DC | September 2012-August 2013
 ▪  Worked with multiple teams within the company including sales and engineering to produce LivingSocial’s Live Events Channel deal collections.
-Market Analyst at Living Social, Washington, DC                                     December 2011-August 2012
-▪ Drove analysis on North American market performance and trends via Salesforce.com reports, dashboards, and queried data from internal databases.
-Data Quality Specialist at Living Social, Washington, DC                August 2011-November 2011
-▪Evaluated market penetration, queue health and merchant eligibility for 250+ markets.
-Maintained and organized database of 600k+ leads.
+Market Analyst at LivingSocial, Washington, DC | August 2011-August 2012
+▪ Drove analyses on North American market performance and trends via Salesforce.com reports, dashboards, and queried data from internal databases.  Maintained database of 600k+ leads.
 
-EDUCATION
-gSchool, Denver, CO                                                                                      August 2013- February 2014
-▪ A full-time, intensive 6-month developer training program with a focus on Ruby on Rails. Taught by the Jumpstart Lab team that created LivingSocial's Hungry Academy, and run by Galvanize, a Google for Entrepreneurs’ Tech Hub.
-College of the Holy Cross,  Worcester, MA                                                August 2007-May 2011
+Education
+…………………………………………………………………………………………………………………………………………………………
+gSchool, Denver, CO | August 2013 - February 2014
+▪ 6 months intensive Ruby and Rails training
+College of the Holy Cross,  Worcester, MA | August 2007- May 2011
 ▪  B.A. Psychology, B.A. Spanish Language
-▪  McCarthy Scholarship recipient Senior Year for excellent Academic performance years 1-3                                                                        
-Universitat de les Isles Baleares, Palma de Mallorca, Spain              August 2009-June 2010
-▪ Immersed completely at the University with no separation from the Native Spanish students. 
+▪  McCarthy Scholarship recipient Senior Year for excellent Academic performance years 1-3.                                                                        
+Universitat de les Isles Baleares, Palma de Mallorca, Spain | August 2009-June 2010
+▪  Immersed completely at the University with no separation from the Native Spanish students. 
 Completed courses in Psychology, Literature, Art, Catalan and Spanish.
-
-
-
-
-
-
-
-
-
